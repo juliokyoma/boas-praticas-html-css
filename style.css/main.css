@@ -1,0 +1,13 @@
+.c-main{
+    display: flex;
+    justify-content: center;
+    height: 1500px;
+}
+c-main__banner{
+
+}
+.c-main__container{
+    background-color:azure;
+    width: 900px;
+    height: 100%;
+}
