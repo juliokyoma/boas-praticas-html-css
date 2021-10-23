@@ -1,6 +1,7 @@
 .c-main{
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-direction: column;
     height: 1500px;
 }
@@ -10,10 +11,11 @@
     background-color: rgb(52, 56, 56);
 }
 .c-main__banner-img{
-    
+
 }
 .c-main__container{
     background-color:azure;
-    width: 900px;
+    width: 90%;
+    max-width: 1500px;
     height: 100%;
 }
